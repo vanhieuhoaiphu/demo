@@ -1,0 +1,98 @@
+@media only screen and (max-width:1251px){
+  .logo{
+      width: 250px;
+  }
+  .nut {
+      font-size: 80%;
+  }
+  h1{
+      margin-left: 150px;
+  }
+  .product h4{
+      font-size: 100%;
+  }
+  .product{
+      width: 80%;
+  }
+  .product a{
+      font-size: 150%;
+  }
+  form{
+    margin-left:50px ;
+}
+}
+@media only screen and (max-width:1080px){
+ .nut{
+     font-size: 70%;
+ }
+ h1{
+   margin-left: 100px;
+ }
+ .button{
+ margin-left: 70px;
+ }
+ .product{
+     margin-left: 0px;
+     width: 60%;
+ }
+ .product a{
+     margin-left: 50px;
+     font-size: 100%;
+ }
+ .product h4{
+     padding-left: 20px;
+ }
+ form{
+    margin-left:  50px;
+    margin-right: 200px;
+ }
+}
+@media only screen and (max-width:767px){
+    h1{
+        font-size: 200%;
+    }
+    .button{
+    font-size: 80%;
+    }
+    .nut{
+        font-size: 50%;
+    }
+    .nut li{
+        margin-left: -10px;
+    }
+    .product h4{
+        font-size: 90%;
+    }
+    .product a{
+        margin-left: 25px;
+    }
+    form{
+        margin-left:  50px;
+        margin-right: 100px;
+     }
+}
+@media only screen and (max-width:527px){
+    .button{
+        font-size: 60%;
+    margin-left: 20px;
+    }
+    h1{
+        margin-left:40px;
+        font-size: 150%;
+    }
+    .picture{
+        margin-top: 20px;
+    }
+    .product a{
+        margin-left: 70px;
+    }
+    .product{
+        height: 170px;
+        margin-left: 40px;
+    }
+    form{
+        margin-left:  20px;
+        margin-right: 20px;
+     }
+
+}

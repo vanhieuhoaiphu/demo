@@ -1,0 +1,13 @@
+@media only screen and (max-width:1200px){
+}
+@media only screen and (max-width:1032px){
+
+}
+@media only screen and (max-width:767px){
+    
+}
+@media only screen and (max-width:480px){
+    .main-nav{
+        opacity: 0;
+    }
+}
